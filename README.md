@@ -25,3 +25,9 @@ Basta executar o comando: **npm start**
 # Curso de JavaScript do Zero ao Avançado:
 
 Acesse e saiba mais: https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83
+
+# Redes Sociais: 
+
+LinkedIn: https://www.linkedin.com/in/olivalpaulino/ <br>
+Instagram: https://www.instagram.com/olivalpaulino/ <br>
+Canal do Youtube: https://www.youtube.com/@olivalpaulino/playlists
