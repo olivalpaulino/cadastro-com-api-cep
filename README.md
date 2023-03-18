@@ -21,3 +21,7 @@ Por fim, execute o comando: **npm install** para baixar as dependências necess�
 # Para executar o Projeto
 
 Basta executar o comando: **npm start**
+
+# Curso de JavaScript do Zero ao Avançado:
+
+Acesse e saiba mais: https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83
