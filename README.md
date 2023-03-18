@@ -26,6 +26,10 @@ Basta executar o comando: **npm start**
 
 Acesse e saiba mais: https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83
 
+# Aula/Explicação do Projeto (Step by Step - Code With Me):
+
+Acesse a aula do youtube, onde explico o projeto no passo a passo, no estilo code with me. Caso queira realizar o mesmo projeto, ver as dificuldades que encontrei no meio do processo e como foram superadas, para a criação de uma aplicação que consome uma api, acesse: https://www.youtube.com/watch?v=DHMQPyF_9Pc
+
 # Redes Sociais: 
 
 LinkedIn: https://www.linkedin.com/in/olivalpaulino/ <br>
